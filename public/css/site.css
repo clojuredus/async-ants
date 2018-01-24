@@ -1,0 +1,51 @@
+h1, h2, h3 {
+  color: #000;
+}
+h1 {
+  font-size: 2.5em
+}
+
+h2 {
+  font-size: 2em
+}
+
+h3 {
+  font-size: 1.5em
+}
+
+a {
+  text-decoration: none;
+  color: #09f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.ant.carrying {
+    fill: darkblue;
+}
+
+.ant {
+    fill: lightblue;
+}
+
+.ant .carrying {
+    fill: blue;
+}
+
+.world {
+    border: 1px solid black;
+}
+
+.hive {
+    fill: pink;
+}
+
+.food {
+    fill: green;
+}
+
+.pheromone {
+    fill: lightgreen;
+}
